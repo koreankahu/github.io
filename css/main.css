@@ -1,0 +1,7 @@
+.img-cover {
+    object-fit: cover;
+}
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
